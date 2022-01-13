@@ -1,9 +1,10 @@
 #include <stdio.h>
-char* safa(){
-   return "safa";
+char* syedatahsinasafa(){
+    int a = 10;
+    return "syeda-tahsina-safa";
 }
 int main()
 {
-    printf("%s",safa());
+    printf("%s",syedatahsinasafa());
     return 0;
 }
